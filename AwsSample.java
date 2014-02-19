@@ -14,6 +14,7 @@
  * 
  * Modified by Sambit Sahu
  * Modified by Kyung-Hwa Kim (kk2515@columbia.edu)
+ * Modified by Anshul Mehra
  * 
  * 
  */
@@ -68,7 +69,6 @@ import com.amazonaws.services.ec2.model.StartInstancesRequest;
 import com.amazonaws.services.ec2.model.StopInstancesRequest;
 import com.amazonaws.services.ec2.model.Tag;
 import com.amazonaws.services.ec2.model.TerminateInstancesRequest;
-//import com.jcraft.jsch.*;
 import ch.ethz.ssh2.Connection;
 import ch.ethz.ssh2.Session;
 import ch.ethz.ssh2.StreamGobbler;
